@@ -9,6 +9,8 @@ gem 'sqlite3'
 
 # Java
 gem 'execjs'
+gem "therubyracer", :require => 'v8'
+gem "therubyracer", "~> 0.8.2.pre" #bleeding edge.
 
 # Asset template engines
 gem 'sass'

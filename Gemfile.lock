@@ -44,7 +44,7 @@ GEM
       multi_json (~> 1.0)
     hike (1.0.0)
     i18n (0.6.0beta1)
-    jquery-rails (1.0.3)
+    jquery-rails (1.0.4)
       railties (~> 3.0)
       thor (~> 0.14)
     mail (2.3.0)
@@ -100,6 +100,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-script
+  execjs
   jquery-rails
   rails (= 3.1.0.beta1)
   sass

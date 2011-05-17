@@ -9,7 +9,7 @@ gem 'sqlite3'
 
 # Java
 gem 'execjs'
-gem "therubyracer", :require => 'v8'
+gem 'therubyrhino'
 
 # Asset template engines
 gem 'sass'

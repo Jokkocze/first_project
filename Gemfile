@@ -8,7 +8,7 @@ gem 'rails', '3.1.0.beta1'
 gem 'sqlite3'
 
 # Java
-gem execjs
+gem 'execjs'
 
 # Asset template engines
 gem 'sass'
